@@ -1,12 +1,8 @@
- ƒVƒFƒ‹ƒXƒNƒŠƒvƒg–¼ÌFSendFileTest.sh
- ƒVƒFƒ‹ƒXƒNƒŠƒvƒg‹@”\FHULFTƒ‹[ƒvƒoƒbƒNƒeƒXƒg—p
- ƒVƒFƒ‹ƒXƒNƒŠƒvƒg‹N“®ˆø”: ‡@ƒRƒs[Œ³ƒeƒXƒgƒf[ƒ^ƒtƒ@ƒCƒ‹–¼(Šg’£ŽqÈ—ª/.datŒÀ’è)
-                           ‡AƒRƒs[æƒeƒXƒgƒtƒ@ƒCƒ‹ID
-                           ‡A‘ÎÛˆ—o—Íƒtƒ@ƒCƒ‹ID
-                           ‡Aˆ—Š®—¹‘Ò‹@ŽžŠÔ
-                           ‡Aˆ—‘ÎÛ–Ê
- ƒVƒFƒ‹ƒXƒNƒŠƒvƒgI—¹ƒXƒe[ƒ^ƒXF  0F³íI—¹
- ƒVƒFƒ‹ƒXƒNƒŠƒvƒg‹@”\ŠT—vFŒ³ƒf[ƒ^‚ðƒRƒs[‚µ‚ÄRƒtƒ@ƒCƒ‹‚ðsend‚µ‚Äƒg[ƒNƒ“ƒfƒg[ƒNƒ“‚µ‚ÄASƒtƒ@ƒCƒ‹send‚µ‚Ärecive‚É“ü‚Á‚½Sƒtƒ@ƒCƒ‹‚ðÁ‚·‚ðŽ©“®‚Ås‚¤B
-
- ƒo[ƒWƒ‡ƒ“    ì¬“ú      ì¬ŽÒ          XV—š—ð
- Ver1.00      2020/02/13   K.Yamamoto        V‹Kì¬
+ã‚·ã‚§ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆåç§°ï¼šSendFileTest.sh
+ã‚·ã‚§ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆæ©Ÿèƒ½ï¼šHULFTãƒ«ãƒ¼ãƒ—ãƒãƒƒã‚¯ãƒ†ã‚¹ãƒˆç”¨
+ã‚·ã‚§ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆèµ·å‹•å¼•æ•°: â‘ ã‚³ãƒ”ãƒ¼å…ƒãƒ†ã‚¹ãƒˆãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«å(æ‹¡å¼µå­çœç•¥/.daté™å®š)
+                        â‘¡ã‚³ãƒ”ãƒ¼å…ˆãƒ†ã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«IDâ‘¡å¯¾è±¡å‡¦ç†å‡ºåŠ›ãƒ•ã‚¡ã‚¤ãƒ«ID
+                        â‘¡å‡¦ç†å®Œäº†å¾…æ©Ÿæ™‚é–“
+                        â‘¡å‡¦ç†å¯¾è±¡é¢
+ã‚·ã‚§ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆçµ‚äº†ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ï¼š  0ï¼šæ­£å¸¸çµ‚äº†
+ã‚·ã‚§ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆæ©Ÿèƒ½æ¦‚è¦ï¼šå…ƒãƒ‡ãƒ¼ã‚¿ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦Rãƒ•ã‚¡ã‚¤ãƒ«ã‚’sendã—ã¦ãƒˆãƒ¼ã‚¯ãƒ³ãƒ‡ãƒˆãƒ¼ã‚¯ãƒ³ã—ã¦ã€Sãƒ•ã‚¡ã‚¤ãƒ«sendã—ã¦reciveã«å…¥ã£ãŸSãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ¶ˆã™ã‚’è‡ªå‹•ã§è¡Œã†ã€‚
