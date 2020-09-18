@@ -12,13 +12,13 @@ fi
 
 echo "ループバックの設定を行い、配信送信を連続で行うプログラムです。"
 echo "ループバックの設定、及び必要なファイルの準備は完了していますか？"
-echo "実行を行うHULFTサーバのSENDディレクトリ、RECIVEディレクトリをシェルスクリプト本体に記入しましたか？"
+echo "実行を行うHULFTサーバのSENDディレクトリ、RECEIVEディレクトリをシェルスクリプト本体に記入しましたか？"
 
 read -p "ok? (y/N): " yn
 case "$yn" in [yY]*) ;; *) echo "abort." ; exit ;; esac
 
 SEND_DIR="HULFTのSENDディレクトリ"
-RECV_DIR="HULFTのRECIVEディレクトリ"
+RECV_DIR="HULFTのRECEIVEディレクトリ"
 
 BASE_FILE="${SEND_DIR}/${1}"
 COPY_FILE="${SEND_DIR}/${2}"
